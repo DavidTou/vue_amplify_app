@@ -1,0 +1,4 @@
+type Record @model {
+  id: ID!
+  payload: String
+}
